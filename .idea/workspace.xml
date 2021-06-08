@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4a2d5ec-76c9-4ede-affc-a1269c3cdffe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1s6EhFW6yKsN4kCnAnB8kGQOMxP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Word2vec_k_means">
+    <configuration name="TFIDFKmeans" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="tfidf_k_means.TFIDF_k_means" />
+      <module name="spark_kmeans_tfidf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tfidf_k_means.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Word2vec_k_means" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tfidf_k_means.Word2vec_k_means" />
+      <module name="spark_kmeans_tfidf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tfidf_k_means.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="spark_kmeans_tfidf" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TFIDFKmeans" />
+      <item itemvalue="Application.Word2vec_k_means" />
+      <item itemvalue="Scala REPL.Scala REPL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Word2vec_k_means" />
+        <item itemvalue="Application.TFIDFKmeans" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="ignorePerformance" value="true" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SCALA_SHOW_SCALATEST_TESTS,SCALA_SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4a2d5ec-76c9-4ede-affc-a1269c3cdffe" name="Default Changelist" comment="" />
+      <created>1620184755484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620184755484</updated>
+      <workItem from="1620184761063" duration="20333000" />
+      <workItem from="1621227470288" duration="39000" />
+      <workItem from="1621345617469" duration="1817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="1080" width="1024" height="800" key="#Project_Structure" timestamp="1620186935935">
+      <screen x="291" y="1080" width="1280" height="800" />
+    </state>
+    <state x="291" y="1080" width="1024" height="800" key="#Project_Structure/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620186935935" />
+    <state x="669" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620224907949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620224907949" />
+    <state x="408" y="1104" key="#com.intellij.execution.impl.EditConfigurationsDialog/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620188546403" />
+    <state x="669" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189488777" />
+    <state x="563" y="433" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1620224954124">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="563" y="433" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620224954124" />
+    <state x="666" y="1401" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620186984009" />
+    <state x="563" y="433" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189416488" />
+    <state width="447" height="466" key="DebuggerActiveHint" timestamp="1620189580751">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="447" height="466" key="DebuggerActiveHint/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620189580751" />
+    <state width="1878" height="425" key="GridCell.Tab.0.bottom" timestamp="1621438692684">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="425" key="GridCell.Tab.0.bottom/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620225191487" />
+    <state width="1238" height="297" key="GridCell.Tab.0.bottom/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620196223515" />
+    <state width="1878" height="254" key="GridCell.Tab.0.bottom/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490665" />
+    <state width="1878" height="425" key="GridCell.Tab.0.bottom/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274216246" />
+    <state width="1878" height="425" key="GridCell.Tab.0.bottom/312.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1621438692684" />
+    <state width="1878" height="425" key="GridCell.Tab.0.center" timestamp="1621438692680">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="425" key="GridCell.Tab.0.center/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620225191478" />
+    <state width="1238" height="297" key="GridCell.Tab.0.center/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620196223510" />
+    <state width="1878" height="254" key="GridCell.Tab.0.center/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490662" />
+    <state width="1878" height="425" key="GridCell.Tab.0.center/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274216238" />
+    <state width="1878" height="425" key="GridCell.Tab.0.center/312.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1621438692680" />
+    <state width="1878" height="425" key="GridCell.Tab.0.left" timestamp="1621438692678">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="425" key="GridCell.Tab.0.left/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620225191473" />
+    <state width="1238" height="297" key="GridCell.Tab.0.left/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620196223507" />
+    <state width="1878" height="254" key="GridCell.Tab.0.left/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490659" />
+    <state width="1878" height="425" key="GridCell.Tab.0.left/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274216235" />
+    <state width="1878" height="425" key="GridCell.Tab.0.left/312.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1621438692678" />
+    <state width="1878" height="425" key="GridCell.Tab.0.right" timestamp="1621438692682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="425" key="GridCell.Tab.0.right/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620225191483" />
+    <state width="1238" height="297" key="GridCell.Tab.0.right/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620196223512" />
+    <state width="1878" height="254" key="GridCell.Tab.0.right/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490663" />
+    <state width="1878" height="425" key="GridCell.Tab.0.right/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274216242" />
+    <state width="1878" height="425" key="GridCell.Tab.0.right/312.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1621438692682" />
+    <state width="1878" height="254" key="GridCell.Tab.1.bottom" timestamp="1620274215154">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.1.bottom/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620195932186" />
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620188730120" />
+    <state width="1878" height="254" key="GridCell.Tab.1.bottom/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490677" />
+    <state width="1878" height="254" key="GridCell.Tab.1.bottom/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274215154" />
+    <state width="1878" height="254" key="GridCell.Tab.1.center" timestamp="1620274215151">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.1.center/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620195932184" />
+    <state width="1238" height="254" key="GridCell.Tab.1.center/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620188730115" />
+    <state width="1878" height="254" key="GridCell.Tab.1.center/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490670" />
+    <state width="1878" height="254" key="GridCell.Tab.1.center/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274215151" />
+    <state width="1878" height="254" key="GridCell.Tab.1.left" timestamp="1620274215149">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.1.left/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620195932181" />
+    <state width="1238" height="254" key="GridCell.Tab.1.left/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620188730112" />
+    <state width="1878" height="254" key="GridCell.Tab.1.left/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490668" />
+    <state width="1878" height="254" key="GridCell.Tab.1.left/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274215149" />
+    <state width="1878" height="254" key="GridCell.Tab.1.right" timestamp="1620274215152">
+      <screen x="36" y="23" width="1884" height="1057" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.1.right/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620195932185" />
+    <state width="1238" height="254" key="GridCell.Tab.1.right/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620188730117" />
+    <state width="1878" height="254" key="GridCell.Tab.1.right/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189490672" />
+    <state width="1878" height="254" key="GridCell.Tab.1.right/291.1103.1280.777/36.23.1884.1057@36.23.1884.1057" timestamp="1620274215152" />
+    <state x="28" y="22" width="1107" height="722" key="SettingsEditor" timestamp="1620219136894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="28" y="22" key="SettingsEditor/291.1080.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1620219136894" />
+    <state x="432" y="1119" width="1107" height="722" key="SettingsEditor/291.1080.1280.800/0.0.1920.1080@291.1080.1280.800" timestamp="1620188586234" />
+    <state x="155" y="55" key="SettingsEditor/291.1103.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1620189398744" />
+  </component>
+</project>
