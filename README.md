@@ -1,0 +1,3 @@
+# 介绍
+
+本项目是在公开的数据集20newsgroups dataset使用spark的机器学习算法完成的文本聚类代码，在运行项目之前，请将resources文件夹的数据解压到resources文件夹下。程序的入口是Word2vec_k_means.scala
